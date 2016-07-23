@@ -1,3 +1,4 @@
+// TODO(toiletjs): Use React. See #4 (v2).
 class AbstractBaseFart {
   /**
    * Initializes farts.
