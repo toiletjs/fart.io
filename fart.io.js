@@ -46,6 +46,6 @@ class Shart extends AbstractBaseFart {
    */
   fart() {
     // Note that this.isWet is not checked here as all sharts are considered wet.
-    console.log('plfffffpfffpllffff');
+    console.log('%c plfffffpfffpllffff', 'color: brown;');
   }
 }
