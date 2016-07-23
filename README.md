@@ -6,3 +6,5 @@ A React-based JS framework that makes farts.
 `fart()`
 
 `fart(true /* wet fart*/)`
+
+`fart(false /* explicitly dry fart */)`
