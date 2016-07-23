@@ -24,3 +24,7 @@ myWetFart.fart();  // pfffffpfpfpffffff?
 let myShart = new Shart();
 myShart.fart();  // plfffffpfffpllffff
 ```
+
+
+## License
+[GNU Lesser General Public License, version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
