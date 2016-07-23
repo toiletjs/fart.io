@@ -3,8 +3,24 @@ A React-based JS framework that makes farts.
 
 ## Usage
 
-`fart()`
+- Simple case
 
-`fart(true /* wet fart*/)`
+`
+let myFart = new Fart();
+myFart.fart();  // poooOOOot.
+`
 
-`fart(false /* explicitly dry fart */)`
+- Wet farts
+ 
+`
+// The Fart constructor takes an optional "isWet" boolean.
+let myWetFart = new Fart(true);
+myWetFart.fart();  // pfffffpfpfpffffff?
+`
+
+- [NEW] Sharts
+
+`
+let myShart = new Shart();
+myShart.fart();  // plfffffpfffpllffff
+`
