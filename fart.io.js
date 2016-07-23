@@ -16,20 +16,13 @@ class AbstractBaseFart {
   fart() {}
 }
 
-class FatalFart extends Error {}
-
 class Fart extends AbstractBaseFart {
   /**
    * Farts.
    */
   fart() {
     if (this.isSilentButDeadly) {
-      // Output nothing for now...
-      console.log('');
-      // The fart becomes fatal after a 1.3 second MTTW (mean time to waft).
-      setTimeout(() => {
-        throw new FatalFart();
-      }, 1300); 
+      while(true);
     }
     if (this.isWet) {
       console.log('pfffffpfpfpffffff?');
