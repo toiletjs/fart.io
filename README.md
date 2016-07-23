@@ -18,7 +18,7 @@ let myWetFart = new Fart(true);
 myWetFart.fart();  // pfffffpfpfpffffff?
 ```
 
-- [NEW] Sharts
+- ![NEW](http://www.animatedgif.net/new/new10_e0.gif) Sharts
 
 ```javascript
 let myShart = new Shart();
