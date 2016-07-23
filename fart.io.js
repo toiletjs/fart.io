@@ -25,3 +25,13 @@ class Fart extends AbstractBaseFart {
     }
   }
 }
+
+class Shart extends AbstractBaseFart {
+  /**
+   * Sharts.
+   */
+  fart() {
+    // Note that this.isWet is not checked here as all sharts are considered wet.
+    console.log('plfffffpfffpllffff');
+  }
+}
