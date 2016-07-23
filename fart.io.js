@@ -4,7 +4,7 @@
  * @license GNU Lesser General Public License, version 2.1
  * @author toiletjs (https://twitter.com/toiletjs)
  * 
- *  TODO(toiletjs): Use React. See #4 (v2).
+ * TODO(toiletjs): Use React. See #4 (v2).
  */
 
 class AbstractBaseFart {
